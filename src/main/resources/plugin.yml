@@ -1,0 +1,4 @@
+name: DoubleShulkerShells
+version: '${project.version}'
+main: me.taako.doubleshulkershells.DoubleShulkerShells
+api-version: '1.20'
